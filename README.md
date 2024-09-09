@@ -49,7 +49,22 @@ The data used in this project is derived from a sample sales dataset spanning fr
 
 ### **Tools Used**
 
-- **Data Processing**: SQL, Excel
-- **Data Visualization**: Power BI / Tableau
-- **Programming**: Python for data manipulation and analytics
-- **Version Control**: Git, GitHub
+- **Data Processing**: Excel
+- **Data Visualization**:  Pivot tables & Pivot Charts
+
+### **Analysis and Insights**
+
+1. **Segment Performance**:  
+   - The **Consumer segment** generated the highest revenue, contributing $194,555 to total sales.
+   - The **Corporate segment** followed, with $121,886 in sales.
+   - The **Home Office segment** lagged behind, with $74,255 in sales.
+
+2. **Regional Sales**:  
+   - Florida leads in sales with $88,448, followed by North Carolina with $55,603.
+   - The **Southern region** accounted for the majority of sales.
+
+3. **Product Category Analysis**:  
+   - **Technology** had the highest sales of $148,772 but generated moderate profit compared to **Office Supplies**.
+   - **Furniture** had low profits despite significant sales volume.
+
+
