@@ -50,7 +50,7 @@ The data used in this project is derived from a sample sales dataset spanning fr
 ### **Tools Used**
 
 - **Data Processing**: Excel
-- **Data Visualization**:  Pivot tables & Pivot Charts
+- **Data Visualization**:  Pivot tables, Pivot Charts and Pivot Views
 
 ### **Analysis and Insights**
 
@@ -66,5 +66,27 @@ The data used in this project is derived from a sample sales dataset spanning fr
 3. **Product Category Analysis**:  
    - **Technology** had the highest sales of $148,772 but generated moderate profit compared to **Office Supplies**.
    - **Furniture** had low profits despite significant sales volume.
+  
+4. **Year-on-Year Profit Changes**:  
+   - The report shows that **2017** saw a significant spike in profit, while previous years had relatively stable profit margins.
+
+---
+
+### **How to Run the Code**
+
+To reproduce the analysis or make modifications:
+1. Clone the repository using `git clone https://github.com/HabeebYusuf55/Sales-Analytics`.
+2. Open the file named Super Store Sales_Analysis.xlsx in Microsoft Excel
+3. Interact with the dashboard using **Pivot tables filters**, **Slicers** or **Dropdown** to filter and analyze specific aspects of the sales data (e.g., by product category, region, or sales period). 
+4. Visualizations can be viewed using Power View.
+
+---
+
+### **Visualizations**
+
+Here are some key visualizations used in the project:
+
+1. **Segment Sales Contribution**  
+   ![Segment Sales Contribution](https://github.com/habeebyusuf55/sales-analysis/blob/main/images/segment_sales.png)
 
 
