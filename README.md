@@ -83,10 +83,24 @@ To reproduce the analysis or make modifications:
 ---
 
 ### **Visualizations**
-
 Here are some key visualizations used in the project:
 
 1. **Segment Sales Contribution**  
-   ![Segment Sales Contribution](https://github.com/habeebyusuf55/sales-analysis/blob/main/images/segment_sales.png)
+   ![Segment Sales Contribution](https://github.com/yourusername/sales-analysis/blob/main/images/segment_sales.png)
+
+2. **Top 10 States by Sales**  
+   ![Top 10 States](https://github.com/yourusername/sales-analysis/blob/main/images/top_10_states.png)
+
+3. **Profit by Product Category**  
+   ![Profit by Product](https://github.com/yourusername/sales-analysis/blob/main/images/product_category_profit.png)
+
+---
+
+### **Conclusion**
+
+The analysis reveals that the Consumer segment is the largest contributor to sales, with Florida leading among the states. Technology products generate the most revenue, but Office Supplies are more profitable. The store saw a significant profit growth in 2017, indicating a successful year.
+
+
+
 
 
