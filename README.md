@@ -87,6 +87,7 @@ Here are some key visualizations used in the project:
 
 1. **Segment Sales Contribution**  
    ![Segment Sales Contribution](https://github.com/yourusername/sales-analysis/blob/main/images/segment_sales.png)
+   ![Picture1](https://github.com/user-attachments/assets/25f60e98-9209-4471-a7aa-dce8195ad1fb)
 
 2. **Top 10 States by Sales**  
    ![Top 10 States](https://github.com/yourusername/sales-analysis/blob/main/images/top_10_states.png)
