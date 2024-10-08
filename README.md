@@ -91,11 +91,13 @@ Here are some key visualizations used in the project:
 
 2. **Top 10 States by Sales**  
    ![Top 10 States](https://github.com/yourusername/sales-analysis/blob/main/images/top_10_states.png)
+   
 
-3. **Profit by Product Category**  
+4. **Profit by Product Category**  
    ![Profit by Product](https://github.com/yourusername/sales-analysis/blob/main/images/product_category_profit.png)
+   ![Picture9](https://github.com/user-attachments/assets/35676bf7-b01f-4da0-b210-0942ca749ea0)
+   ---
 
----
 
 ### **Conclusion**
 
